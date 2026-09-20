@@ -13,10 +13,10 @@ The analysis results are presented using Pandas DataFrames and visualized using 
 - Count A, T, G, and C nucleotides
 - Calculate GC content
 - Calculate AT content
--- Generate complementary sequences
--- Generate reverse complementary sequences
--- Analyze multiple DNA sequences
--- Generate nucleotide composition visualizations
--- Compare GC content between sequences
--- Export analysis results to CSV
--- Provide basic biological interpretation
+- Generate complementary sequences
+- Generate reverse complementary sequences
+- Analyze multiple DNA sequences
+- Generate nucleotide composition visualizations
+- Compare GC content between sequences
+- Export analysis results to CSV
+- Provide basic biological interpretation
