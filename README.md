@@ -1,4 +1,4 @@
-Project Overview
+## Project Overview
 
 DNA Sequence Analyzer is a mini project designed to perform basic analysis of DNA sequences.
 
@@ -6,7 +6,7 @@ The project reads DNA sequences from a FASTA file and analyzes their nucleotide 
 
 The analysis results are presented using Pandas DataFrames and visualized using Matplotlib.
 
-Features
+## Features
 Read DNA sequences from FASTA format
 Validate DNA sequences
 Calculate sequence length
